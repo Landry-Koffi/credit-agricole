@@ -132,7 +132,7 @@
   </div>
 </div>
     </div>
-    <div class="col-md-6">
+    <!--<div class="col-md-6">
         <div class="d-flex align-items-center justify-content-center mt-5">
             <?php
                 include 'db.php';
@@ -153,7 +153,7 @@
                 <?php } ?>
             </table>
         </div>
-    </div>
+    </div>-->
 </div>
 
 
